@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Hernandez,Laura-Portfolio-Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: digital-marketing.qmd
+        text: Digital Marketing
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    toc: true
+
+editor: visual
+

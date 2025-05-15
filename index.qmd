@@ -1,0 +1,19 @@
+---
+title: "Hi,I'm Laura Hernandez"
+---
+
+:::: columns
+::: {.column width="30%"}
+![](meimage.jpg){width="100%" style="border-radius: 50%;"}
+
+I am a Business Administration major, with a focus on marketing. I am learning to specialize in consumer behavior, conducting market research and developing marketing campaigns.
+:::
+::::
+
+## About Me
+
+I hold an Associates degree from Mount San Antonio College. I am currently working on getting my Bachelors degree in Marketing from Cal Poly Pomona. I have a unique set of skills such as adaptability, thriving in team based settings, analytic reasoning and leadership. This can be shown throughout my school career of working in groups for important projects and having to step up as leader.
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio. -Where you learn more about me*

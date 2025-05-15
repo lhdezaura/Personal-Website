@@ -1,0 +1,68 @@
+---
+title: "Digital Marketing"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying marketing into the real world.
+
+These projects consisted of researching brands, coming up with promotional strategies and researching consumer behavior.
+
+## What You’ll Find
+
+-   **Promotional Strategies:** How to promote a product being introduced for the first time in a well established brand.
+-   **Consumer Behavior:** Figuring how the target market is drawn to certain products and services.
+-   **Customer & Market Insights:** Analyzing consumer behavior to optimize their experience with brands.
+
+## \[Bubble: Promoting to a New Target Market\]
+
+In this project, My group an I created a marketing campaign for Bubble skin care. For this project, we used a different target 45-54 and changed the look of the product to cater to them. Apart from changing the product, we created advertisements and created a media plan to promote it.
+
+**Skills Demonstrated:**
+
+-   **Marketing Research:** Researched the target market to better fit their needs.
+
+-   **Team Coordination:** Collaborated in a team to come up with a marketing campaign.
+
+-   **Budget management:** Carefully planned the budget for promotional activities.
+
+-   **Creativity and Adaptability :** Creating a new look for product while also adapting to the current market trends.
+
+    Below is an embedded demonstration of the report:
+
+    -   <iframe src="Bubble.html" width="100%" height="600px" style="border: none;">
+
+        </iframe>
+
+        \
+
+------------------------------------------------------------------------
+
+## \[Somisomi: Consumer Behavior\]
+
+This initiative involved conducting research not just within the company but also the consumers. In this project, the dessert shop Somisomi was researched to figure how they draw in customers. Not just the how but the why. We asked ourselves why Somisomi always has a long line of customers out the door. We evaluated their target market and ehat their target market looks for to fufill their needs.
+
+**Skills Demonstrated:**
+
+-   **Brand Analysis:** Evaluation of the brand's performance.
+
+-   **Competitive Benchmarking:** Evaluated brand positioning within the market.
+
+-   **Teamwork:** Worked in teams to research the target market.
+
+-   **Performance tracking:** Made sure to track performance of the team.
+
+    Below is an embedded demonstration of the report:
+
+    <iframe src="Somisomi.html" width="100%" height="600px" style="border: none;">
+
+    </iframe>
+
+    \
+    \
+
+------------------------------------------------------------------------
